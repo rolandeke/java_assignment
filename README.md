@@ -1,2 +1,2 @@
 # Java Assignment Practice
-Java assognment on clases and Objects
+Java assignment on clases and Objects
